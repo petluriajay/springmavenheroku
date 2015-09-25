@@ -47,7 +47,7 @@
 			<artifactId>heroku-maven-plugin</artifactId>
 			<version>0.5.3</version>
 			<configuration>
-				<appName>shrouded-plateau-2182</appName>
+				<appName>blooming-refuge-8036</appName>
 			</configuration>
 		  </plugin>
 
